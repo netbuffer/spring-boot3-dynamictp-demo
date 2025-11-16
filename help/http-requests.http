@@ -1,0 +1,18 @@
+### GET request with a header
+GET https://httpbin.org/ip
+Accept: application/json
+
+### GET /dynamictp/env
+GET http://localhost:23398/dynamictp/env?key=dynamictp.collectorTypes
+
+### GET /dynamictp/executor
+GET http://localhost:23398/dynamictp/executor?name=dtpExecutor1
+
+### POST /dynamictp/execute
+POST http://localhost:23398/dynamictp/execute?name=dtpExecutor1
+
+### POST /dynamictp/calc1
+POST http://localhost:23398/dynamictp/calc1?value=666
+
+### POST /dynamictp/calc2
+POST http://localhost:23398/dynamictp/calc2?value=888

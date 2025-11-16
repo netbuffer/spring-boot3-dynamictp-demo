@@ -1,0 +1,20 @@
+server:
+  port: 23398
+
+spring:
+  application:
+    name: spring-boot3-dynamictp-demo
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+logging:
+  level:
+    root: INFO
+    cn.netbuffer: DEBUG
+    org:
+      dromara:
+        dynamictp: DEBUG
