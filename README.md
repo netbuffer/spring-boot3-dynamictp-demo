@@ -6,8 +6,6 @@
 
 Spring Boot 3 + Dynamic Thread Pool 集成演示项目，展示如何配置和使用动态线程池管理。  
 
-[DynamicTP 官方文档](https://dynamictp.cn/guide/use/quick-start.html) - 详细使用指南
-
 ## 项目特性
 
 - ✅ Spring Boot 3.5.7 + Java 17
@@ -111,6 +109,7 @@ src/main/java/cn/netbuffer/spring/boot3/dynamictp/demo/
 - [DynamicTP 官方文档](https://dynamictp.cn/guide/use/quick-start.html)
 - [Spring Boot 文档](https://docs.spring.io/spring-boot/3.5.7/reference/)
 - [Spring Web](https://docs.spring.io/spring-boot/3.5.7/reference/web/servlet.html)
+- http://127.0.0.1:23398/actuator/dynamictp
 
 ## 开发指南
 
