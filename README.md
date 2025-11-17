@@ -4,7 +4,9 @@
 ![spring-boot](https://img.shields.io/static/v1?label=spring-boot&message=3.5.7&color=green)
 ![dynamic-tp](https://img.shields.io/static/v1?label=dynamic-tp&message=1.2.2-x&color=D58522)
 
-Spring Boot 3 + Dynamic Thread Pool 集成演示项目，展示如何配置和使用动态线程池管理。
+Spring Boot 3 + Dynamic Thread Pool 集成演示项目，展示如何配置和使用动态线程池管理。  
+
+[DynamicTP 官方文档](https://dynamictp.cn/guide/use/quick-start.html) - 详细使用指南
 
 ## 项目特性
 

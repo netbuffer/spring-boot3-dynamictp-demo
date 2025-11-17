@@ -45,6 +45,11 @@
             <artifactId>dynamic-tp-spring-boot-starter-common</artifactId>
             <version>1.2.2-x</version>
         </dependency>
+        <dependency>
+            <groupId>org.dromara.dynamictp</groupId>
+            <artifactId>dynamic-tp-spring-boot-starter-adapter-webserver</artifactId>
+            <version>1.2.2-x</version>
+        </dependency>
     </dependencies>
 
     <build>
